@@ -1,12 +1,15 @@
 <template>
-    <div class="home">
-        Home
+    <div>
+        WalkCreate
     </div>
 </template>
 
 <script>
-
     export default {
-        name: 'home',
+        name: "WalkCreate"
     }
 </script>
+
+<style scoped>
+
+</style>

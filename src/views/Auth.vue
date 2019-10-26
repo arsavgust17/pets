@@ -1,12 +1,15 @@
 <template>
-    <div class="home">
-        Home
+    <div>
+        Auth
     </div>
 </template>
 
 <script>
-
     export default {
-        name: 'home',
+        name: "Auth"
     }
 </script>
+
+<style scoped>
+
+</style>
